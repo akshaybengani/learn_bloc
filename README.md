@@ -5,7 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 # To Change your email
+```shell
 git config user.email yourpersonalemail@gmail.com
+```
 
 This project is a starting point for a Flutter application.
 
